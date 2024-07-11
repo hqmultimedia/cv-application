@@ -64,3 +64,6 @@ tags-input .tags .tag-item {
 
 
 /*--------------------------------------------------------------------------------End tags input AngularJS */
+.fancybox-wrap {
+    z-index: 99999;
+}
